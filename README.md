@@ -29,4 +29,5 @@ I'm also the developer for the python DiscordRobots API
  - spending much time in python
  - coding discord.py bots for like 2 years now
  - learned p5 just from watching dan and now I'm helping other guys with JS
+ - watching a lot of michael reeves
  

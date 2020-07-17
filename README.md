@@ -1,16 +1,32 @@
-### Hi there 👋
+# Ari24
+### About me
 
-<!--
-**Ari24-cb24/Ari24-cb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Ari, I live in Germany, near Frankfurt, and yeah :D
 
-Here are some ideas to get you started:
+### My experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Main-languages:
+ - Python for 3 years
+ - Java for 2 years
+
+My off-languages:
+ - Brainfuck
+ - Proccessing
+ - P5
+
+I'm learning these languages:
+ - Javascript
+ - C#
+ - Cpp
+
+### My Projects
+
+Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects
+I'm also the developer for the python DiscordRobots API
+
+### Fun Facts
+ - over 300 pygame projects
+ - spending much time in python
+ - coding discord.py bots for like 2 years now
+ - learned p5 just from watching dan and now I'm helping other guys with JS
+ 

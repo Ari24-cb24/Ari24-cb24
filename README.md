@@ -25,9 +25,9 @@ I'm learning these languages:
 
 ### My Projects
 
- Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects  
- I'm the developer for python API's for [Keksstudios](insertURL)
- I'm one of the translator for the game [Orna](https://playorna.com/), one of my 3 mobile games that I'm currently playing :lul:
+ - Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects  
+ - I'm the developer for python API's for [Keksstudios](insertURL)
+ - I'm one of the translator for the game [Orna](https://playorna.com/), one of my 3 mobile games that I'm currently playing :lul:
 
 ### Fun Facts
  - over 300 pygame projects
@@ -38,11 +38,11 @@ I'm learning these languages:
  - I was developer for the discordRobotsAPI project til this project was deleted
  
  ### Games
-  osu!
-  minecraft (currently wargrear building and spigot developing)
-  War Thunder (because of Girls and Panzers)
-  Orna
-  Grow Castle
-  ETS2 (sometimes even TMP6)
-  Hue
-  Minesweeper
+  - osu!
+  - minecraft (currently wargrear building and spigot developing)
+  - War Thunder (because of Girls and Panzers)
+  - Orna
+  - Grow Castle
+  - ETS2 (sometimes even TMP6)
+  - Hue
+  - Minesweeper

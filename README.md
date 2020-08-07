@@ -38,11 +38,11 @@ I'm learning these languages:
  - I was developer for the discordRobotsAPI project til this project was deleted
  
  ### Games
-  - osu!
-  - minecraft (currently wargrear building and spigot developing)
-  - War Thunder (because of Girls and Panzers)
-  - Orna
-  - Grow Castle
-  - ETS2 (sometimes even TMP6)
-  - Hue
-  - Minesweeper
+  - [osu!](https://osu.ppy.sh/home)
+  - [Minecraft](https://www.minecraft.net/) (currently wargrear building and spigot developing)
+  - [War Thunder](https://warthunder.com/) (because of Girls and Panzers)
+  - [Orna](https://playorna.com/)
+  - [Grow Castle](https://play.google.com/store/apps/details?id=com.raongames.growcastle&hl=de)
+  - [ETS2](https://eurotrucksimulator2.de/) (sometimes even [TMP6](https://truckersmp.com/))
+  - [Hue](https://store.steampowered.com/app/383270/Hue/)
+  - [Minesweeper](https://de.wikipedia.org/wiki/Minesweeper)

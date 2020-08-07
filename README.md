@@ -23,7 +23,7 @@ I'm learning these languages:
 
 ### My Projects
 
-Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects
+Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects  
 I'm also the developer for the python API for a Keksstudio-Project
 
 ### Fun Facts

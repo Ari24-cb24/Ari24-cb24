@@ -1,9 +1,9 @@
 # Ari24
 ### About me
 
-Hey there, I'm Ari, I live in Germany, near Frankfurt, and yeah :D
-I'm watching a lot of anime, most time on [Proxer.me](https://proxer.me/) and sometimes on [Netflix](https://www.netflix.com/)
-I'm also helping other people on [Stackoverflow](https://stackoverflow.com/users/13444275/ari24)
+Hey there, I'm Ari, I live in Germany, near Frankfurt, and yeah :D  
+I'm watching a lot of anime, most time on [Proxer.me](https://proxer.me/) and sometimes on [Netflix](https://www.netflix.com/)  
+I'm also helping other people on [Stackoverflow](https://stackoverflow.com/users/13444275/ari24)  
 
 ### My experience
 

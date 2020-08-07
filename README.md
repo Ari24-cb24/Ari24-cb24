@@ -18,6 +18,8 @@ I'm learning these languages:
  - Javascript
  - C#
  - Cpp
+ - TASM
+ - C
 
 ### My Projects
 

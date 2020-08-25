@@ -10,6 +10,7 @@ I'm also helping other people on [Stackoverflow](https://stackoverflow.com/users
 My Main-languages:
  - Python for 3 years
  - Java for 2 years
+ - C# for 4 months
 
 My off-languages:
  - Brainfuck
@@ -18,7 +19,6 @@ My off-languages:
 
 I'm learning these languages:
  - Javascript
- - C#
  - Cpp
  - TASM
  - C

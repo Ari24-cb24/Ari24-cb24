@@ -26,7 +26,7 @@ I'm learning these languages:
 ### My Projects
 
  - Currently I'm doing some speedcoding on youtube, community contributions for shiffman and pygame projects  
- - I'm the developer for python API's for [Keksstudios](insertURL)
+ - I'm the developer for python API's for [Keksstudio's](insertURL) chat program
  - I'm one of the translator for the game [Orna](https://playorna.com/), one of my 3 mobile games that I'm currently playing :lul:
 
 ### Fun Facts

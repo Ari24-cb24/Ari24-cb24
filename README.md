@@ -1,4 +1,8 @@
 # Ari24
+
+#### Note
+This description is a little bit outdated. I need to refactor it
+
 ### About me
 
 Hey there, I'm Ari, I live in Germany, near Frankfurt, and yeah :D  

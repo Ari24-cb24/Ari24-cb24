@@ -92,7 +92,7 @@ Ansonsten habe ich viel Erfahrung gesammelt und Kollegen und neue Freunde gefund
 
 [Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k&ab_channel=PythonDiscord)
 
-#### Well, the end
+### Well, the end
 
 _Wenn du alles bis hier hin durchgelesen hast, lass mich dir eins sagen: Es war Zeitverschwendung_
 Spaß beiseite, aber solltest du mit der Programmierung starten, dann musst du wissen, dass nur du deinen Lernpfad entscheiden kannst. Wir können dir die grobe Himmelsrichtung geben, du musst dich aber selbst durch den Jungel schlagen. Viel Glück dabei!  

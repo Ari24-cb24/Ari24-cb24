@@ -23,7 +23,8 @@ Ca. 2-3 Monate später war meine Interesse in dem Bereich KI geweckt. Anfangs wa
 
 Nach 4 Jahren an gesammelter Programmiererfahrung fühlte ich mich in dem Thema Informatik ziemlich fit. Ich velor hier ein wenig die Interesse an Neuronalen Netzen und übersetzte Daniel Shiffmans Coding Challanges in Python Pygame. Ich lernte mit diesen Videos auch Javascript, was relativ hilfreich war. Diese Phase ist leider nicht als so interessant.
 
-Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeutene Abschnitte meiner Erfahrung für mich. In der Zeit habe ich auch andere Sprachen gelernt, wie Basic, Assembly Language, C# etc. Aktuell interessiere ich mich mehr für Reverse Engineering. Ich will mehr in die IT-Sec Branche eintauchen. 
+Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeutene Abschnitte meiner Erfahrung für mich. In der Zeit habe ich auch andere Sprachen gelernt, wie Basic, Assembly Language, C# etc. Aktuell interessiere ich mich mehr für Reverse Engineering. Ich will mehr in die IT-Sec Branche eintauchen.  
+Zudem lese ich heute aktiv Blogs.
 
 ## Meine erlenten Sprachen zusammengefasst
 
@@ -45,6 +46,7 @@ Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeu
 - John Hammond für die interessanten Malware deofbuscation und King of the hill Videos.
 - TheMorpheus für die Erklärungen, wie sie sonst nicht im Internet stehen!
 - An dich, Pep8! Durch dich wurd mein Code übersichtlich!
+- Und an dich, Stackoverflow! Du... Well, du bist mein Code.
 - Alle anderen Kollegen und Freunde, die ich in dieser Zeit gefunden hatte. Wir hatten viel Wissen auf dem [Morpheus DC](https://the-morpheus.de/discord) ausgetauscht.
 
 ## Meine Anime Favorites
@@ -73,6 +75,13 @@ Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeu
 | Steam | cool_brick24 |
 | Proxer.me | [Ari24](https://proxer.me/user/870918/overview#top)
 | TODO | Weitere Plattformen
+
+## Blogs, die ich empfehlen kann
+
+- realypthon
+- medium (es gibt hier und da ein paar gute Blogs)
+- PDFs
+- Stack Overflow
 
 ### Hab ich irgendwas besonderes erreicht/getan
 

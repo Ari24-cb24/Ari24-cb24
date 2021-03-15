@@ -103,7 +103,10 @@ Ansonsten habe ich viel Erfahrung gesammelt und Kollegen und neue Freunde gefund
 
 ### Some useless stats
 
-[![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24)](https://github.com/anuraghazra/github-readme-stats)
+[![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ari24-cb24&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Well, the end
 

@@ -21,10 +21,10 @@ Nach ungefähr 1-2 Jahren, gesamt 3 Jahre ca. nachdem ich mit der Programmierung
 
 Ca. 2-3 Monate später war meine Interesse in dem Bereich KI geweckt. Anfangs war das Thema für mich riesig und schwierig zu verstehen. Heutzutage habe ich ein besseres Verständnis für Neuronale Netze, welches in der Theorie reicht, um in Konversationen mitreden zu können 😅. 
 
-Nach 4 Jahren an gesammelter Programmiererfahrung fühlte ich mich in dem Thema Informatik ziemlich fit. Ich velor hier ein wenig die Interesse an Neuronalen Netzen und übersetzte Daniel Shiffmans Coding Challanges in Python Pygame. Ich lernte mit diesen Videos auch Javascript, was relativ hilfreich war. Diese Phase ist leider nicht als so interessant.
+Nach 4 Jahren an gesammelter Programmiererfahrung fühlte ich mich in dem Thema Informatik ziemlich fit. Ich velor hier ein wenig die Interesse an Neuronalen Netzen und übersetzte Daniel Shiffmans Coding Challanges in Python Pygame. Ich lernte mit diesen Videos auch Javascript, was relativ hilfreich war. Ab dieser Zeit fing ich auch mit der discord.py Library an. Ich startete meinen ersten Discord Bot "Tendo", der Anfangs für einen Nintendo Community Server entwickelt wurde. 
 
 Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeutene Abschnitte meiner Erfahrung für mich. In der Zeit habe ich auch andere Sprachen gelernt, wie Basic, Assembly Language, C# etc. Aktuell interessiere ich mich mehr für Reverse Engineering. Ich will mehr in die IT-Sec Branche eintauchen.  
-Zudem lese ich heute aktiv Blogs.
+Zudem lese ich heute aktiv Blogs. Tendo hat mitlerweile einiges durchgemacht. Von kaputten JSON Datenbanken bishin zu etlichen Problemen. Ich hätte damals echt nicht mit JSON arbeiten sollen, aber aus dem Fehler habe ich gelernt.
 
 ## Meine erlenten Sprachen zusammengefasst
 
@@ -38,7 +38,7 @@ Zudem lese ich heute aktiv Blogs.
 - Brainfuck
 - Rockstar lang
 
-## Besonderes danke an folgende Leute
+## Besonderes Danke an folgende Leute
 
 - Daniel Shiffman aka. TheCodingTrain für das vermitteln von Javascript und Mathematik!
 - Kobe aka. SaintPlays für die spaßigen Clashofcodes

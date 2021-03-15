@@ -7,7 +7,7 @@ Hey, ich bin Ari, gehe aktuell noch zur Schule und lebe in Deutschland, Hessen.
 In meiner Freizeit rudere ich aktiv und schieße Bogen. Ich lese außerdem gerne Blogs und schaue gerne Anime.  
 Ansonsten spiele ich osu! oder Rocket League.
 
-## Meine Programmiererfahrung aka. mein Pfad durch den Jungle
+## Mein Pfad durch den Jungle
 
 Ich bin damals in die Informatik durch meinen Vater geraten. Ich weiß nicht mehr wie, aber es hat irgendwo so gestartet, dass mein Bruder und ich uns ein Buch über Python Projekte bestellten um dann ein simples "Fußball" Spiel nachzuprogrammieren.  
 Ich fand damals Code schon ziemlich cool und war sehr daran interessiert. Also arbeitete ich 2 Jahre lang mit Scratch, welches mir Verständnis über Variablen und den Ablauf von Code vermittelte. Das coole an Scratch waren meiner Meinung nach die eingebauten Bild Editoren im Offline Editor.  

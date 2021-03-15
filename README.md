@@ -87,6 +87,7 @@ Zudem lese ich heute aktiv Blogs. Tendo hat mitlerweile einiges durchgemacht. Vo
 
 Well, noch nichts großes
 Ich bin aktuell bspw an dem Orna Translation Projekt dabei.  
+Ansonsten arbeite ich noch an LaunchpadGamer (In den Repo Pins)  
 
 Ansonsten habe ich viel Erfahrung gesammelt und Kollegen und neue Freunde gefunden.
 

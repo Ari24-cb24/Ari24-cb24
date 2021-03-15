@@ -101,6 +101,10 @@ Ansonsten habe ich viel Erfahrung gesammelt und Kollegen und neue Freunde gefund
 
 [Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k&ab_channel=PythonDiscord)
 
+### Some useless stats
+
+[![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Well, the end
 
 _Wenn du alles bis hier hin durchgelesen hast, lass mich dir eins sagen: Es war Zeitverschwendung_  

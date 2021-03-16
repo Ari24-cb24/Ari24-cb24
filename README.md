@@ -85,11 +85,10 @@ Zudem lese ich heute aktiv Blogs. Tendo hat mitlerweile einiges durchgemacht. Vo
 
 ### Hab ich irgendwas besonderes erreicht/getan
 
-Well, noch nichts großes
-Ich bin aktuell bspw an dem Orna Translation Projekt dabei.  
-Ansonsten arbeite ich noch an LaunchpadGamer (In den Repo Pins)  
-
-Ansonsten habe ich viel Erfahrung gesammelt und Kollegen und neue Freunde gefunden.
+Ich arbeite aktuell an
+- Dem Orna Translation Projekt
+- LaunchpadGamer, ein Programm bzw Library um mit dem Launchpad Computer Spiele zu spielen bzw auf dem Launchpad zu spielen
+- Andere private Projekte, die bald veröffentlicht werden
 
 ### Wichtige Sachen an jede Devs da draußen
 

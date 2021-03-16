@@ -26,15 +26,14 @@ Nach 4 Jahren an gesammelter Programmiererfahrung fühlte ich mich in dem Thema 
 Nun, 5-6 Jahre (gegen 2020/21) sind jetzt um. Die Abschnitte oben sind nur bedeutene Abschnitte meiner Erfahrung für mich. In der Zeit habe ich auch andere Sprachen gelernt, wie Basic, Assembly Language, C# etc. Aktuell interessiere ich mich mehr für Reverse Engineering. Ich will mehr in die IT-Sec Branche eintauchen.  
 Zudem lese ich heute aktiv Blogs. Tendo hat mitlerweile einiges durchgemacht. Von kaputten JSON Datenbanken bishin zu etlichen Problemen. Ich hätte damals echt nicht mit JSON arbeiten sollen, aber aus dem Fehler habe ich gelernt.
 
-## Meine erlenten Sprachen zusammengefasst
+## Meine erlernten Sprachen zusammengefasst
 
 - Python
 - Java
 - C#
 - Zx81 Basic
 - Assembly Language (TASM)
-- Javascript
-- HTML, CSS, das Frontendpaket
+- Javascript, HTML, das Frontendpaket
 - Brainfuck
 - Rockstar lang
 

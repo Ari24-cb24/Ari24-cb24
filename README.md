@@ -10,7 +10,9 @@
 
 ## Badges
 
-<img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
+<p float="left">
+  <img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
+</p>
 
 ### Some useless stats
 

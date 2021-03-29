@@ -10,7 +10,7 @@
 
 ## Badges
 
-todo: orna, launchpadgamer, ...
+[![Orna Translation Project](http://aridevelopment.de/static/emojis/base.png)](https://playorna.com/)
 
 ### Some useless stats
 

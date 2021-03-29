@@ -10,7 +10,7 @@
 
 ## Badges
 
-[![Orna Translation Project](http://aridevelopment.de/static/emojis/base.png =128x128)](https://playorna.com/)
+<img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
 
 ### Some useless stats
 

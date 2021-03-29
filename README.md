@@ -22,5 +22,5 @@
 
 ### Contributors
 
-[Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k&ab_channel=PythonDiscord)
+[Pep-0008](https://www.youtube.com/watch?v=hgI0p1zf31k&ab_channel=PythonDiscord)
 

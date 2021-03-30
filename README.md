@@ -8,7 +8,7 @@
 - Gaming stuff: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
 
-## Badges
+## Badges/Teams/Highlights
 
 <p float="left">
   <img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>

@@ -3,7 +3,7 @@
 - About me: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/about_me-de.md)/[EN]()
 - How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)/[EN]()
 - Knowledge of programming languages: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/languages_why.md)
-- Badges: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/README.md#badges)
+- Badges: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/README.md#badgesteamshighlights)
 - Favorite anime: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/favorite-anime.md)
 - Gaming stuff: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)

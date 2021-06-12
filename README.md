@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAri24-cb24&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Overview
 
 - About me: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/about_me-de.md)/[EN]()
@@ -19,8 +21,6 @@
 ![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ari24-cb24&layout=compact&theme=radical&count_private=true)  
-  
-![Profile counter](http://aridevelopment.de/dudefromgermany)
 
 ### Contributors
 

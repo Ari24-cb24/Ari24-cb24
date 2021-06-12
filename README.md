@@ -18,7 +18,9 @@
 
 ![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ari24-cb24&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ari24-cb24&layout=compact&theme=radical&count_private=true)  
+  
+![Profile counter](http://aridevelopment.de/dudefromgermany)
 
 ### Contributors
 

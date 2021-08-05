@@ -1,7 +1,5 @@
 # Overview
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAri24-cb24&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](http://aridevelopment.de/california-images)
-  
-<i> (if you want to make your own page counter, click on the one above) </i>
 
 - About me: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/about_me-de.md)/[EN]()
 - How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)/[EN]()
@@ -13,9 +11,11 @@
 
 ## Badges/Teams
 
-<p float="left">
-  <img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
-</p>
+<div style="display: flex">
+  <p>
+    <img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
+  </p>
+</div>
 
 ### Some useless stats
 

@@ -30,10 +30,15 @@
 
 ## Languages and tools I use
 <div style="display: flex;flex-direction: row;" id="languages">
-    <p align="left"> 
-        <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="40"> </a>
-        <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/intellij-icon.svg" alt="intellij" width="40"> </a> 
-    </p>
+    <p align="left">
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/intellij-icon.svg" alt="intellij" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/jupyter-icon.svg" alt="jupyter" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/pycharm-icon.svg" alt="pycharm" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/sublime3-icon.svg" alt="sublime3" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/visualstudio-icon.svg" alt="visualstudio" width="40"> </a>
+		<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/vsc-icon.svg" alt="vsc" width="40"> </a>
+	</p>
 </div>
 
 ## Github Stats

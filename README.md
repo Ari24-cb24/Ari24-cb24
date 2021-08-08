@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAri24-cb24&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](http://aridevelopment.de/california-images)
 
 - Introduction: <a href="#introduction"> Clickme </a>
-- How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)/[EN]()
+- How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)
 - Languages and tools I use: <a href="#languages"> Clickme </a>
 - Badges and Teams: <a href="#badges"> Clickme </a>
 - Favorite anime: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/favorite-anime.md)
@@ -11,7 +11,9 @@
 
 <div id="introduction">
     <h2> Introduction </h2>
-    
+    Hey, I'm Ari!  
+    I live in Germany, Hessen and I'm still a student.  
+    My hobbies are archery and rowing and I spend a lot of time with software.
 </div>
 
 ## Badges/Teams

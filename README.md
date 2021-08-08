@@ -2,12 +2,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAri24-cb24&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](http://aridevelopment.de/california-images)
 
 - Introduction: <a href="#introduction"> Clickme </a>
-- How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)
+- How I started with coding: [DE](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/started_with_coding-de.md)
 - Languages and tools I use: <a href="#languages"> Clickme </a>
 - Badges and Teams: <a href="#badges"> Clickme </a>
-- Favorite anime: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/favorite-anime.md)
-- Gaming: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
-- Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
+- Favorite anime: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/favorite-anime.md)
+- Gaming: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/gaming_thingies.md)
+- Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/recommended_bloggos_and_people.md)
 
 <p> </p>
 <hr />

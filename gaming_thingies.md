@@ -9,3 +9,6 @@
 | Steam | cool_brick24 |
 | Proxer.me | [Ari24](https://proxer.me/user/870918/overview#top)
 | TODO | More games
+
+I'm also not going to update this every time.  
+Just text me over discord!

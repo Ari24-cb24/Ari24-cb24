@@ -31,14 +31,30 @@
 ## Languages and tools I use
 <div style="display: flex;flex-direction: row;" id="languages">
     <p align="left">
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/intellij-icon.svg" alt="intellij" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/pycharm-icon.svg" alt="pycharm" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/vsc-icon.svg" alt="vsc" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/sublime3-icon.svg" alt="sublime3" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/jupyter-icon.svg" alt="jupyter" width="40"> </a>
-	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/visualstudio-icon.svg" alt="visualstudio" width="40"> </a>    
-	</p>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/intellij-icon.svg" alt="intellij" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/pycharm-icon.svg" alt="pycharm" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/vsc-icon.svg" alt="vsc" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/sublime3-icon.svg" alt="sublime3" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/jupyter-icon.svg" alt="jupyter" width="40"> </a>
+	<a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/visualstudio-icon.svg" alt="visualstudio" width="40"> </a>    
+    </p>
+	
+    <p align="left">
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/python-icon.svg" alt="python" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/java-icon.svg" alt="java" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/html5-icon.svg" alt="html5" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/css3-icon.svg" alt="css3" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/sass-icon.svg" alt="sass" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/javascript-icon.svg" alt="javascript" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/typescriptlang-icon.svg" alt="typescriptlang" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/csharp-icon.svg" alt="csharp" width="40"> </a>
+	    <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/c-icon.svg" alt="c" width="40"> </a>
+            <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/cplusplus-icon.svg" alt="cplusplus" width="40"> </a>
+            <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/asm-icon.svg" alt="asm" width="40"> </a>
+            <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/nasm-icon.svg" alt="nasm" width="40"> </a>
+            <a href=""> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/tasm-icon.svg" alt="tasm" width="40"> </a>
+    </p>
 </div>
 
 ## Github Stats

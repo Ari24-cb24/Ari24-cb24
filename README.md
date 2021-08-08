@@ -10,10 +10,12 @@
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
 
 <div id="introduction">
-    <h2> Introduction </h2>
     Hey, I'm Ari!  
+      
     I live in Germany, Hessen and I'm still a student.  
-    My hobbies are archery and rowing and I spend a lot of time with software.
+      
+    My hobbies are archery and rowing and I spend a lot of time with software.  
+      
 </div>
 
 ## Badges/Teams

@@ -5,7 +5,6 @@
 - How I started with coding: [DE](https://github.com/Ari24-cb24/personal-information/blob/main/started_with_coding-de.md)/[EN]()
 - Languages and tools I use: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/README.md#languages)
 - Badges: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/README.md#badges)
-
 - Favorite anime: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/favorite-anime.md)
 - Gaming: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)

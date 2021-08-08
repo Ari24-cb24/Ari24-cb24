@@ -8,6 +8,7 @@
 - Grand Blue
 - Kaguya-sama
 - Konosuba
+- AOT
 - Plastic Memories
 - Yuri! on Ice
 - Jaku-chara Tomozaki-kun

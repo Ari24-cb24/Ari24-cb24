@@ -30,7 +30,7 @@
 
 ## Languages and tools I use
 <div style="display: flex" id="languages">
-    <p align="left"> <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="64"> </a> </p>
+    <p align="left"> <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="32"> </a> </p>
 </div>
 
 ## Github Stats

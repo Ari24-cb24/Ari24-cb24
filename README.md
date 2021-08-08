@@ -9,10 +9,11 @@
 - Gaming: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
 
-<div id="introduction">
+<div id="introduction" style="font-size: 2em">
     <p> Hey, I'm Ari! </p>
     <p> I live in Germany, Hessen and I'm still a student. </p>
     <p> My hobbies are archery and rowing and I spend a lot of time with software. </p>
+    <i> I'm not so good in writing introductions 😅 </p>
 </div>
 
 ## Badges/Teams

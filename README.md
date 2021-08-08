@@ -9,6 +9,10 @@
 - Gaming: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
 
+<p> </p>
+<hr />
+<p> </p>
+
 <div id="introduction">
     <p> 
         Hey, I'm Ari! <br />

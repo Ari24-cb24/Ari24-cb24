@@ -25,7 +25,7 @@
 ## Badges/Teams
 
 <div style="display: flex" id="badges">
-    <img src="http://aridevelopment.de/static/emojis/base.png" alt="drawing" width="128"/>
+    <img src="http://aridevelopment.de/static/emojis/base.png" alt="orna-translation" width="64"/>
 </div>
 
 ## Languages and tools I use

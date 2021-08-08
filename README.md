@@ -29,7 +29,7 @@
 </div>
 
 ## Languages and tools I use
-<div style="display: flex;flex-direction: column;" id="languages">
+<div style="display: flex;flex-direction: row;" id="languages">
     <p> <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/atom-icon.svg" alt="atom" width="32"> </a> </p>
     <p> <a href="/"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/ides/intellij-icon.svg" alt="intellij" width="32"> </a> </p>
 </div>

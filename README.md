@@ -10,7 +10,7 @@
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/personal-information/blob/main/recommended_bloggos_and_people.md)
 
 <div id="introduction">
-    ## Introduction
+    <h2> Introduction </h2>
     
 </div>
 

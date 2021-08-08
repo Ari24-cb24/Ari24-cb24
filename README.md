@@ -11,9 +11,9 @@
 
 <div id="introduction">
     <p> 
-        Hey, I'm Ari!
-        I live in Germany, Hessen and I'm still a student.
-        My hobbies are archery and rowing and I spend a lot of time with software.
+        Hey, I'm Ari! <br />
+        I live in Germany, Hessen and I'm still a student. <br />
+        My hobbies are archery and rowing and I spend a lot of time with software. <br />
         <i> I'm not so good in writing introductions 😅 </i> 
     </p>
 </div>

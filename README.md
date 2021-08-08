@@ -1,4 +1,4 @@
-<div>
+<div style="background-color: red">
     <a> test </a>
     <a> test2 </a>
 </div>

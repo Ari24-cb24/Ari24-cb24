@@ -6,6 +6,7 @@
         Hey, I'm Ari! <br />
         I live in Germany, Hessen and I'm still a student. <br />
         I strave for full stack development. Currently, I'm a backend developer. <br /> 
+	You can visit my website: <a href="https://aridevelopment.de/"> aridevelopment.de </a>
     </p>
 </div>
 
@@ -49,6 +50,13 @@
         <a href=""> <img  alt="tensorflow" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/tensorflow-icon.svg" width="40"> </a>
     </p>
 </div>
+
+## Bigger projects I've been working on
+- [MyTab](https://github.com/Ari24-cb24/mytab): A custom Tab Page insipred by mytab.me but with more features
+- [Tendo](https://github.com/Ari24-cb24): My discord bot I've been working on since 2019
+- [LaunchpadGamer](https://github.com/Ari24-cb24/LaunchpadGamer): Use your Launchpad as a controller for games.
+- [My ever first calculator written in Python](https://github.com/Ari24-cb24/my_ever_first_calculator_written_in_python): A complete calculator written in python.
+- [Screen Drwaer](https://github.com/Ari24-cb24/screen-drawer): Apples Screenshot and Zoom Features *in a nutshell*
 
 ## Github Stats
 

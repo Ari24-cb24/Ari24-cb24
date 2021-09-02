@@ -17,8 +17,7 @@
     <p> 
         Hey, I'm Ari! <br />
         I live in Germany, Hessen and I'm still a student. <br />
-        My hobbies are archery and rowing and I spend a lot of time with software. <br />
-        <i> I'm not so good in writing introductions 😅 </i> 
+        I strave for full stack development. Currently, I'm a backend developer. <br /> 
     </p>
 </div>
 

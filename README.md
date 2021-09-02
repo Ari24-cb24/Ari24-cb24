@@ -60,6 +60,8 @@
 - [My ever first calculator written in Python](https://github.com/Ari24-cb24/my_ever_first_calculator_written_in_python): A complete calculator written in python.
 - [Screen Drwaer](https://github.com/Ari24-cb24/screen-drawer): Apples Screenshot and Zoom Features *in a nutshell*
 
+<p> ⠀</p>
+
 ## Github Stats
 
 ![Ok](https://github-readme-stats.vercel.app/api?username=Ari24-cb24&count_private=true&show_icons=true&theme=radical)

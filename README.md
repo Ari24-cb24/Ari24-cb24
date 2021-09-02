@@ -10,8 +10,8 @@
     </p>
 </div>
 
-<p> </p>
-<p> </p>
+<p> ⠀</p>
+<p> ⠀</p>
 
 ## Languages and tools I use
 <div style="display: flex;flex-direction: row;" id="languages">

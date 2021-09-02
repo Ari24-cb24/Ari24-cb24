@@ -51,33 +51,21 @@
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/c-icon.svg" alt="c" width="40"> </a>
         <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/cplusplus-icon.svg" alt="cplusplus" width="40"> </a>
         <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/asm-icon.svg" alt="asm" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/nasm-icon.svg" alt="nasm" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/tasm-icon.svg" alt="tasm" width="40"> </a>
+        <a href=""> <img  alt="unity3d" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/unity3d-icon.svg" width="40"> </a>
     </p>
     <p align="left">
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/bukkit-icon.svg" alt="bukkit" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/paper-icon.svg" alt="paper" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/discordpy-icon.svg" alt="discordpy" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/android-icon.svg" alt="android" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/unity3d-icon.svg" alt="unity3d" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/arduino-icon.svg" alt="arduino" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/nginx-icon.svg" alt="nginx" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/flask-icon.svg" alt="flask" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/anaconda-icon.svg" alt="anaconda" width="40"> </a>  
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/mongodb-icon.svg" alt="mongodb" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/npm-icon.svg" alt="npm" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/p5-icon.svg" alt="p5" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/processing-icon.svg" alt="processing" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/pygame-icon.png" alt="pygame" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/pytorch-icon.svg" alt="pytorch" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/keras-icon.svg" alt="keras" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/tensorflow-icon.svg" alt="tensorflow" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/git-icon.svg" alt="git" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/github-icon.svg" alt="github" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/gitlab-icon.svg" alt="gitlab" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/windows-icon.svg" alt="windows" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/linux-icon.svg" alt="linux" width="40"> </a>
-        <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/ubuntu-icon.svg" alt="ubuntu" width="40"> </a>     
+	<a href=""> <img  alt="anaconda" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/anaconda-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="android" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/android-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="arduino" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/arduino-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="bukkit" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/bukkit-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="discordpy" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/discordpy-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="flask" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/flask-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="git" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/git-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="keras" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/keras-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="mongodb" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/mongodb-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="npm" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/npm-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="pytorch" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/pytorch-icon.svg" width="40"> </a>
+        <a href=""> <img  alt="tensorflow" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/libraries/tensorflow-icon.svg" width="40"> </a>
     </p>
 </div>
 

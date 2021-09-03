@@ -6,7 +6,7 @@
         Hey, I'm Ari! <br />
         I live in Germany, Hessen and I'm still a student. <br />
         I strave for full stack development. Currently, I'm a backend developer. <br /> 
-	You can visit my website: <a href="https://aridevelopment.de/"> aridevelopment.de </a>
+	You can visit my current website here: <a href="https://aridevelopment.de/"> aridevelopment.de </a>
     </p>
 </div>
 

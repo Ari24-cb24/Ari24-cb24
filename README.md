@@ -31,7 +31,7 @@
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/sass-icon.svg" alt="sass" width="40"> </a>
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/javascript-icon.svg" alt="javascript" width="40"> </a>
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/typescriptlang-icon.svg" alt="typescriptlang" width="40"> </a>
-	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/react-icon.svg" alt="reactjs" width="40"> </a>
+
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/csharp-icon.svg" alt="csharp" width="40"> </a>
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/c-icon.svg" alt="c" width="40"> </a>
         <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/cplusplus-icon.svg" alt="cplusplus" width="40"> </a>

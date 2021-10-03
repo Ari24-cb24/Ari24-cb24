@@ -35,6 +35,7 @@
 	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/c-icon.svg" alt="c" width="40"> </a>
         <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/cplusplus-icon.svg" alt="cplusplus" width="40"> </a>
         <a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/asm-icon.svg" alt="asm" width="40"> </a>
+	<a href="#"> <img src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/ruby-icon.svg" alt="ruby" width="40"> </a>
         <a href=""> <img  alt="unity3d" src="https://github.com/Ari24-cb24/Ari24-cb24/blob/master/languages/unity3d-icon.svg" width="40"> </a>
     </p>
     <p align="left">

@@ -5,7 +5,8 @@
     <p> 
         Hey, I'm Ari! <br />
         I live in Germany, Hessen and I'm still a student. <br />
-        I strive for full stack development. Currently, I'm a backend developer. <br /> 
+	I'm currently a backend developer, work a lot with python and strive for full stack development. Check out my project [myanimetab](https://github.com/Ari24-cb24/myanimetab)! <br/ >
+        I reguarly play [Clash of Code](https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573), [osu!](https://osu.ppy.sh/users/14357228) or [csgo](https://steamcommunity.com/id/ari24_cb24) and watch a lot of [anime](https://proxer.me/user/870918). <br /> 
 	You can visit my current website here: <a href="https://aridevelopment.de/"> aridevelopment.de </a>
     </p>
 </div>

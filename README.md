@@ -10,7 +10,7 @@
 	You can visit my current website here: <a href="https://aridevelopment.de/"> aridevelopment.de </a>
     </p>
     <blockquote>
-	    Live is like a game - every decision you make will affect everything
+	    Live is like a game - every decision you make will affect the rest
     </blockquote>
 </div>
 

@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAri24-cb24&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](http://aridevelopment.de/california-images)
 [![Years](https://badges.pufler.dev/years/Ari24-cb24)](https://aridevelopment.de/california-images)
+[![Repos](https://badges.pufler.dev/repos/Ari24-cb24)](https://aridevelopment.de/california-images)
 
 # Hello 👋!
 <div id="introduction">

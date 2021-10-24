@@ -15,4 +15,4 @@
 - Hello World
   
   
-I would recommend you to take a look at my reviews because this list above is not the newest.
+The list above is not the newest. Take a look at my [proxer.me account](https://proxer.me/user/870918/) if you have access to proxer. I'll create a mal account soon

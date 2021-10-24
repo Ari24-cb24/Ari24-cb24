@@ -63,10 +63,9 @@
 </div>
 
 ## Bigger projects I've been working on
-- [MyAnimeTab](https://github.com/Ari24-cb24/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features
-- [Tendo](https://github.com/Ari24-cb24): My discord bot I've been working on since 2019
+- [MyAnimeTab](https://github.com/aridevelopment-de/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features
+- [Tendo](https://github.com/aridevelopment-de/): My discord bot I've been working on since 2019
 - [LaunchpadGamer](https://github.com/Ari24-cb24/LaunchpadGamer): Use your Launchpad as a controller for games.
-- [My ever first calculator written in Python](https://github.com/Ari24-cb24/my_ever_first_calculator_written_in_python): A complete calculator written in python.
 - [Screen Drawer](https://github.com/Ari24-cb24/screen-drawer): Apples Screenshot and Zoom Features *in a nutshell*
 
 <p> ⠀</p>

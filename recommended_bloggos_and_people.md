@@ -4,7 +4,6 @@
 - medium
 - hashnode
 - dev.to
-- 
 - PDFs
 - Stack Overflow
 

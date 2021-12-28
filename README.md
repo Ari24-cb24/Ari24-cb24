@@ -61,6 +61,8 @@
     </p>
 </div>
 
+<p> </p>
+
 ## Bigger projects I've been working on
 - [MyAnimeTab](https://github.com/aridevelopment-de/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features
 - [Tendo](https://github.com/aridevelopment-de/): My discord bot I've been working on since 2019
@@ -75,11 +77,15 @@
 
 ![Top Langs](https://github-readme-stats-nine-delta-63.vercel.app/api/top-langs/?username=Ari24-cb24&layout=compact&theme=radical&count_private=true)  
 
+<p> </p>
+
 ## Other useful information about myself
 
 - Favorite anime: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/favorite-anime.md)
 - Gaming: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/recommended_bloggos_and_people.md)
+
+<p> </p>
 
 ### Contributors
 

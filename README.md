@@ -63,11 +63,11 @@
 
 <p> </p>
 
-## Bigger projects I've been working on
+## Projects I've been working on
 - [MyAnimeTab](https://github.com/aridevelopment-de/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features
 - [Tendo](https://github.com/aridevelopment-de/): My discord bot I've been working on since 2019
 - [LaunchpadGamer](https://github.com/Ari24-cb24/LaunchpadGamer): Use your Launchpad as a controller for games.
-- [Screen Drawer](https://github.com/Ari24-cb24/screen-drawer): Apples Screenshot and Zoom Features *in a nutshell*
+- [Python string indecies performance comparison](https://gist.github.com/Ari24-cb24/14b2daf10db68d09479b15851bd230eb): A comparison for searching indecies of every upper character in a string
 
 <p> ⠀</p>
 

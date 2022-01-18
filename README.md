@@ -82,8 +82,9 @@
 ## Other useful information about myself
 
 - Favorite anime: Acchi Kocchi
-- Gaming: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/recommended_bloggos_and_people.md)
+- Being addicted to [osu!](https://osu.ppy.sh/users/14357228)
+- Proxer.me [Account](https://proxer.me/user/870918/overview#top)
 
 <p> </p>
 

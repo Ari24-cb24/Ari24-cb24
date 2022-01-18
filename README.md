@@ -81,7 +81,7 @@
 
 ## Other useful information about myself
 
-- Favorite anime: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/favorite-anime.md)
+- Favorite anime: Acchi Kocchi
 - Gaming: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/gaming_thingies.md)
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/recommended_bloggos_and_people.md)
 

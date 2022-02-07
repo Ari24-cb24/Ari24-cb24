@@ -5,10 +5,10 @@
 # Hello, I'm Ari 👋!
 <div id="introduction">
     <p> 
-        I live in Germany, Hessen and I'm still a student. On top of that my personality is INTP-A <br />
+        I live in Germany, Hessen and I'm still a student. My personality is INTP-A <br />
 	I'm currently a backend developer, work a lot with python and strive for full stack development. Check out my project <a href="https://github.com/Ari24-cb24/myanimetab"> myanimetab</a>! <br/ >
         I reguarly play <a href="https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573">Clash of Code</a>, <a href="https://osu.ppy.sh/users/14357228">osu!</a> or <a href="https://steamcommunity.com/id/ari24_cb24">csgo</a> and watch a lot of <a href="https://proxer.me/user/870918">anime</a> <br />
-	You can visit my current website here: <a href="https://aridevelopment.de/"> aridevelopment.de </a> <br />
+	You can visit my current website here: <a href="http://aridevelopment.de/"> aridevelopment.de </a> <br />
 	    <i> btw, I don't use arch </i>
     </p>
     <blockquote>

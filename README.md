@@ -6,8 +6,8 @@
 <div id="introduction">
     <p> 
         I live in Germany, Hessen and I'm still a student. My personality is INTP-A <br />
-	I'm currently a backend developer, work a lot with python and strive for full stack development. Check out my project <a href="https://github.com/Ari24-cb24/myanimetab"> myanimetab</a>! <br/ >
-        I reguarly play <a href="https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573">Clash of Code</a>, <a href="https://osu.ppy.sh/users/14357228">osu!</a> or <a href="https://steamcommunity.com/id/ari24_cb24">csgo</a> and watch a lot of <a href="https://proxer.me/user/870918">anime</a> <br />
+	I'm currently a full stack development but mainly working in backend (mostly with Python). Check out my projects at my organization <a href="https://github.com/aridevelopment-de"> aridevelopment.de </a>! <br/ >
+        I reguarly play <a href="https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573">Clash of Code</a>, <a href="https://osu.ppy.sh/users/14357228">osu!</a> or <a href="https://steamcommunity.com/id/ari24_cb24">csgo</a> and watch a lot of <a href="https://proxer.me/user/870918">anime</a>. My favorite music genre is <a href="https://en.wikipedia.org/wiki/Liquid_funk">Liquid DNB</a> <br />
 	You can visit my current website here: <a href="http://aridevelopment.de/"> aridevelopment.de </a> <br />
 	    <i> btw, I don't use arch </i>
     </p>

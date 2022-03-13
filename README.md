@@ -64,10 +64,9 @@
 <p> </p>
 
 ## Projects I've been working on
-- [datetimeparser](https://github.com/aridevelopment-de/datetimeparser): Powerful parsing library for parsing the english language into datetime objects
-- [MyAnimeTab](https://github.com/aridevelopment-de/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features
-- [Tendo](https://github.com/aridevelopment-de/): My discord bot I've been working on since 2019
-- [LaunchpadGamer](https://github.com/Ari24-cb24/LaunchpadGamer): Use your Launchpad as a controller for games.
+- [datetimeparser](https://github.com/aridevelopment-de/datetimeparser): Powerful parsing library for parsing the english language into python datetime objects
+- [MyAnimeTab](https://github.com/aridevelopment-de/myanimetab): A custom Tab Page insipred by [mytab.me](https://mytab.me/) but with more features written in react
+- [Tendo](https://github.com/aridevelopment-de/): My discord bot I've been working on since 2019 in python
 
 <p> ⠀</p>
 

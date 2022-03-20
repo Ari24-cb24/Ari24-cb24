@@ -5,9 +5,9 @@
 # Hello, I'm Ari 👋!
 <div id="introduction">
     <p> 
-        I live in Germany, Hessen and I'm still a student. My personality is INTP-A <br />
-	I'm currently a full stack development but mainly working in backend (mostly with Python). Check out my projects at my organization <a href="https://github.com/aridevelopment-de"> aridevelopment.de </a>! <br/ >
-        I reguarly play <a href="https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573">Clash of Code</a>, <a href="https://osu.ppy.sh/users/14357228">osu!</a> or <a href="https://steamcommunity.com/id/ari24_cb24">csgo</a> and watch a lot of <a href="https://proxer.me/user/870918">anime</a>. My favorite music genre is <a href="https://en.wikipedia.org/wiki/Liquid_funk">Liquid DNB</a> <br />
+        I live in Germany, Hessen. My life is all about programming besides being a student. <br />
+	I'm currently a full stack developer but mainly working in backend (mostly with Python). Check out my projects at my organization <a href="https://github.com/aridevelopment-de"> aridevelopment.de </a>! <br/ >
+        I reguarly play <a href="https://www.codingame.com/profile/76d944c61045eb5052a2fdb161c9a6882023573">Clash of Code</a>, <a href="https://osu.ppy.sh/users/14357228">osu!</a> or <a href="https://steamcommunity.com/id/ari24_cb24">CS:GO</a> and watch a lot of <a href="https://proxer.me/user/870918">anime</a>. I always thought programming and anime are both good topics to match together.
 	    <i> btw, I don't use arch </i>
     </p>
     <blockquote>
@@ -80,6 +80,8 @@
 ## Other useful information about myself
 
 - Favorite anime: Acchi Kocchi
+- Personality: INTP-A
+- Favorite music genre: <a href="https://en.wikipedia.org/wiki/Liquid_funk">Liquid DNB</a> and Japanese Metal
 - Blogs and people I can recommend: [Clickme](https://github.com/Ari24-cb24/Ari24-cb24/blob/master/recommended_bloggos_and_people.md)
 - Being addicted to [osu!](https://osu.ppy.sh/users/14357228)
 - Proxer.me [Account](https://proxer.me/user/870918/overview#top)

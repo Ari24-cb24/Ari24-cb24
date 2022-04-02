@@ -11,7 +11,7 @@
 	    <i> btw, I don't use arch </i>
     </p>
     <blockquote>
-	    My live is like a game - I make decisions based on situations but overthink them
+	    My life is like a game - I make decisions based on situations but overthink them
     </blockquote>
 </div>
 

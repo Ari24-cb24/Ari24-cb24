@@ -7,7 +7,7 @@
 
 <hr />
 
-**📊 Weekly development breakdown**
+**📊 [Weekly development breakdown](https://wakatime.com/@Ari24)**
 
 <!--START_SECTION:waka-->
 

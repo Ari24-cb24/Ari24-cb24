@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                       ████████████████▒░░░░░░░░   65.45 %
-Java                             ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-CSS                              ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Other                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java                          █████████████████████▓░░░   86.23 %
+XML                           ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+IDEA_MODULE                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->

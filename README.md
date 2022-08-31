@@ -1,9 +1,4 @@
-* 👋 Hello I'm Ari, a student and from Germany
-* 🤓 I like to program in my freetime
-* 📺 I watch a lot of anime and regualy hang out on discord
-* 🖱️ Addicted to CS:GO and osu!
-* 👷 Currently working on projects at my [organization](https://github.com/aridevelopment-de)
-* 🗒️ Vim for life!
+![grafik](https://user-images.githubusercontent.com/56089155/187718223-45863e96-4c28-4d4c-b3ca-02bf88aeae4c.png)
 
 <hr />
 

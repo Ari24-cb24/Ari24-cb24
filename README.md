@@ -1,4 +1,6 @@
-![grafik](https://user-images.githubusercontent.com/56089155/187718223-45863e96-4c28-4d4c-b3ca-02bf88aeae4c.png)
+<p float="left" align="middle"><img src="https://user-images.githubusercontent.com/56089155/195064669-12bd89bb-53c9-44b1-9fd8-993f93f585e1.png" width="600px" height="420px">
+<img src="https://user-images.githubusercontent.com/56089155/195064706-c37aa3c8-f669-46c9-abba-1eadcbb910c5.png" width="600px" height="420px">
+<img src="https://user-images.githubusercontent.com/56089155/195064753-0de674c7-4fc7-4831-a8a5-402e19cc77be.png" width="600px" height="420px"></p>
 
 <hr />
 

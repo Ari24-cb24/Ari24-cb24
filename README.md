@@ -6,6 +6,8 @@
 
 **📊 [Weekly development breakdown](https://wakatime.com/@Ari24)**
 
+[![wakatime](https://wakatime.com/badge/user/ca34c016-707f-4382-84cf-1823913a1423.svg)](https://wakatime.com/@ca34c016-707f-4382-84cf-1823913a1423)
+
 <!--START_SECTION:waka-->
 
 ```text

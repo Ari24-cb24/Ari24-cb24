@@ -24,7 +24,7 @@ XML              6 mins          ▒░░░░░░░░░░░░░░�
 
 **Wakapi**
 
-[![wakapi](https://stats.aridevelopment.de/api/badge/Ari/interval:today?label=today)](https://stats.aridevelopment.de/api/badge/Ari/interval:today?label=today)
-[![wakapi30](https://stats.aridevelopment.de/api/badge/Ari/Ari/interval:30_days?label=last+30d)](https://stats.aridevelopment.de/api/badge/Ari/Ari/interval:30_days?label=last+30d)
+[![wakapi](https://stats.aridevelopment.de/api/badge/Ari/interval:today?label=today)](https://wakatime.com/@ca34c016-707f-4382-84cf-1823913a1423)
+[![wakapi30](https://stats.aridevelopment.de/api/badge/Ari/Ari/interval:30_days?label=last+30d)](https://wakatime.com/@ca34c016-707f-4382-84cf-1823913a1423)
 
 [![wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=Ari&api_domain=stats.aridevelopment.de&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=Ari&api_domain=stats.aridevelopment.de&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)

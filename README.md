@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             50 mins         ████████████░░░░░░░░░░░░░   47.60 %
-SCSS             16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-JSON             13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Kotlin           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-TypeScript       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -13,7 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   1 hr 21 mins    ██████████████████████▒░░   89.77 %
+XML    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+C      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+C++    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->

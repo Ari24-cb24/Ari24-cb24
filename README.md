@@ -16,9 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   13 mins         ██████████████████████▓░░   90.07 %
-Markdown         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-TypeScript       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+GitIgnore file   13 mins         ███████████████░░░░░░░░░░   60.36 %
+Java             7 mins          ████████▒░░░░░░░░░░░░░░░░   32.97 %
+Markdown         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+TypeScript       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

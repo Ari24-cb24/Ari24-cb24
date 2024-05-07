@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
-<h3 align="center">A web developer who enjoys multiple subject areas in computer science.</h3>
+<h3 align="center">A web developer passionate about maths and gaming.</h3>
 
 ---
 

@@ -16,9 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        11 mins         ████████████████████▓░░░░   83.05 %
-textmate   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-CSS        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

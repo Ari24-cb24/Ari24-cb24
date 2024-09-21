@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             30 mins         ████████░░░░░░░░░░░░░░░░░   31.72 %
-JSON             22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
-Kotlin           18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-XML              8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Vue.js           8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

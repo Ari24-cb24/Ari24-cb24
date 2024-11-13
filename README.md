@@ -28,7 +28,7 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **📊 Yearly activity**
-<img src="[https://waka.booky.dev/api/activity/chart/Ari.svg?noattr](https://waka.booky.dev/api/activity/chart/Ari.svg?dark&noattr)">
+<img src="https://waka.booky.dev/api/activity/chart/Ari.svg?dark&noattr">
 
 <br />
 

@@ -13,7 +13,7 @@
 
 **📊 [Weekly development breakdown](https://wakatime.com/@Ari24)**
 
-[![wakatime](https://wakatime.com/badge/user/ca34c016-707f-4382-84cf-1823913a1423.svg)](https://wakatime.com/@ca34c016-707f-4382-84cf-1823913a1423)
+[![wakatime](https://wakatime.com/badge/user/ca34c016-707f-4382-84cf-1823913a1423.svg)](https://wakatime.com/@ca34c016-707f-4382-84cf-1823913a1423) [![wakapi-week](https://waka.booky.dev/api/badge/Ari/interval:7_days?label=last%207%20days)](https://waka.booky.dev/api/badge/Ari/interval:today?label=today) [![wakapi-today](https://waka.booky.dev/api/badge/Ari/interval:today?label=today)](https://waka.booky.dev/api/badge/Ari/interval:today?label=today)
 
 <!--START_SECTION:waka-->
 
@@ -27,7 +27,8 @@ JSON             3 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img width=50% src="https://github-readme-stats.vercel.app/api?username=Ari24-cb24&show_icons=true&theme=dark&locale=en" alt="Ari24-cb24">
+**📊 Yearly activity**
+<img src="[https://waka.booky.dev/api/activity/chart/Ari.svg?noattr](https://waka.booky.dev/api/activity/chart/Ari.svg?dark&noattr)">
 
 <br />
 

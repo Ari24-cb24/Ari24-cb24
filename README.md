@@ -18,10 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                      39 mins         ███████████████████▓░░░░░   78.17 %
-Config                  10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-GitIgnore file          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-.NET Project Settings   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C#   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

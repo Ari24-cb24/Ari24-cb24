@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A web developer passionate about maths and gaming.</h3>
+<h4 align="center"><a href="https://ari24.dev">Articles</a></h4>
 
 ---
 

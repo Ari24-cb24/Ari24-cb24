@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  5 hrs 3 mins    █████████████████████▒░░░   84.93 %
-JSON                  16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-GitIgnore file        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Mixin Configuration   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-textmate              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Java                  5 hrs 3 mins    ████████████████████░░░░░   80.08 %
+JSON                  17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Vue.js                15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+GitIgnore file        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Mixin Configuration   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->

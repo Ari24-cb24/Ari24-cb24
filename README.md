@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                       1 hr 37 mins    ███████████████████░░░░░░   76.25 %
+textmate                   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Gradle                     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JSON                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Mixin Json Configuration   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->

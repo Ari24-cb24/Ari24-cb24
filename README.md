@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       1 hr 37 mins    ███████████████████░░░░░░   76.25 %
-textmate                   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Gradle                     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-JSON                       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Mixin Json Configuration   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java                       4 hrs 40 mins   ██████████████████████░░░   87.60 %
+textmate                   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Gradle                     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JSON                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Mixin Json Configuration   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       3 hrs 3 mins    ███████████████████████▓░   95.09 %
-Gradle                     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Groovy                     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Java Properties            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

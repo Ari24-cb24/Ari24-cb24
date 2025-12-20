@@ -19,9 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       4 hrs 52 mins   ██████████████████▒░░░░░░   73.29 %
-Markdown   1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-Kotlin     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Java       2 hrs 24 mins   ██████████████████▓░░░░░░   74.11 %
+Markdown   50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
 ```
 
 <!--END_SECTION:waka-->

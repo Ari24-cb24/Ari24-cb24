@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       2 hrs 24 mins   ██████████████████▓░░░░░░   74.11 %
-Markdown   50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Java       1 hr 20 mins    █████████████████▒░░░░░░░   69.20 %
+Markdown   35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 %
 ```
 
 <!--END_SECTION:waka-->

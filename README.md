@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java       28 mins         ████████████████████████▒   97.74 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->

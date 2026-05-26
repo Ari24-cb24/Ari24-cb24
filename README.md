@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 53 mins         ███████████░░░░░░░░░░░░░░   44.35 %
-Kotlin            1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-protobuf          1 hr 11 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-Protocol Buffer   47 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Markdown          15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Java              2 hrs 38 mins         ██████████▒░░░░░░░░░░░░░░   41.48 %
+protobuf          1 hr 28 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+Protocol Buffer   1 hr 13 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+Kotlin            41 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Markdown          18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->

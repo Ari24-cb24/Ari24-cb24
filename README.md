@@ -19,9 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             16 mins               █████████████████████░░░░   83.56 %
-Kotlin           3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java             2 hrs 36 mins         ████████████████████████▒   97.14 %
+Kotlin           4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+textmate         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Shell Script     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

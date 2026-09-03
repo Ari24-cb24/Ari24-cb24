@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              14 mins               ██████████████████░░░░░░░   71.51 %
-protobuf          3 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-Protocol Buffer   2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

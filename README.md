@@ -19,10 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              45 mins               █████████████████████████   99.96 %
-protobuf          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              2 hrs 32 mins         ████████████████▓░░░░░░░░   66.32 %
+protobuf          43 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Protocol Buffer   33 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+TypeScript        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Text              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
